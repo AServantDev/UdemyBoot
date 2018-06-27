@@ -1,0 +1,22 @@
+#logo {
+    width: 10em;
+}
+.navbar{
+    box-shadow: 3px 3px 6px gray;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.jumbotron {
+    background-image: url("42c7fc6c-ada8-41fa-ac3d-df89623ca315.jpg");
+}
+
+#nav2{
+    background-color: lightgray;
+}
+
+#img{
+    width: 30%;
+}
+
